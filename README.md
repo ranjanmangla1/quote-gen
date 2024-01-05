@@ -2,6 +2,11 @@
 
 Generates Inspirational quotes
 
+### Technologies used
+
+- NextJS
+- Tailwind CSS
+- AWS Lambda
 
 ## Getting Started
 
